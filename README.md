@@ -51,11 +51,18 @@ There are no missing data in the dataset.
 
 # Count of Movies and TV Shows
 
+
+
+# Bar Plot for Type of Shows
+
+![image](https://github.com/TobiAyinde/Netflix-EDA/assets/149031697/1b4316ed-7552-4ddd-94db-455d5c724bb8) ![newplot](https://github.com/TobiAyinde/Netflix-EDA/assets/149031697/d08c4879-7f5a-4154-9907-306dc92aa62f)
+
+
 +   summarise(count = n ())
   
 # A tibble: 2 × 2
 
-  type    count
+  Type    Count
   
   <fct>   <int>
   
@@ -63,13 +70,7 @@ There are no missing data in the dataset.
 
 2 TV Show  2676
 
-The table below shows that there are more Movies than TV shows
-
-
-# Bar Plot for Type of Shows
-
-![image](https://github.com/TobiAyinde/Netflix-EDA/assets/149031697/1b4316ed-7552-4ddd-94db-455d5c724bb8) ![newplot](https://github.com/TobiAyinde/Netflix-EDA/assets/149031697/d08c4879-7f5a-4154-9907-306dc92aa62f)
-
+The table above shows that there are more Movies than TV shows
 
 
 # Movie Distribution
