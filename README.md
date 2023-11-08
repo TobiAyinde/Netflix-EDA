@@ -5,31 +5,31 @@
 ![image](https://github.com/TobiAyinde/Netflix-EDA/assets/149031697/5dd3a861-05b7-4722-b954-fe94ac0dfd97)
 
 
-The above image shows that the data is made up of 8807 observations and 12 variables which are 
+The above image shows that the data is made up of 8807 observations and 12 variables, which are 
 
-Show_id	: idenification number       
+Show_id: identification number       
 
-Type : Whether the show is a Movie or TV show
+Type: Whether the show is a Movie or TV show
 
-Title	: Name of the show
+Title: Name of the show
 
-Director : The director of the show
+Director: The director of the show
 
-Cast	: The actors and actresses that were cast in the show
+Cast: The actors and actresses that were cast in the show
 
-Country : Origin of the show
+Country: Origin of the show
 
-Date_added : The day the show was added to Netflix streaming platform	
+Date_added: The day the show was added to the Netflix streaming platform	
 
-Release_year : The day the show was released to the public
+Release_year: The day the show was released to the public
 
-Rating	: Age rating of the show
+Rating: Age rating of the show
 
-Duration : Time duration of the show
+Duration: Time duration of the show
 
 Listed_in	: The genre of the show
 
-Description : A synopsis of the show
+Description: A synopsis of the show
 
 
 # Checking for Missing Data
@@ -63,7 +63,7 @@ There are no missing data in the dataset.
 
 2 TV Show  2676
 
-The the table above shows that there are more Movies than TV shows
+The table above shows that there are more Movies than TV shows
 
 
 # Bar Plot for Type of Shows
