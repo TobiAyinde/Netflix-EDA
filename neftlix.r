@@ -83,12 +83,16 @@ netflix %>%
        subtitle = 'Top 20 Countries')
 
 
-library(tidyr)   # Load the tidyr package for data tidying
 
+#-------------------BAR CHART OF GENRE VS TITLES--------------------------------
+
+
+library(tidyr)
+library(stringr)  # Load the stringr package for string manipulation
 
 netflix %>%
   select(listed_in) %>%
-  mutate(listed_in = str_split(listed_in, ',')) %>%
+  mutate(listed_in = str_split(listed_in, ', ')) %>%
   unnest(listed_in) %>%
   group_by(listed_in) %>%
   count() %>%
@@ -98,8 +102,11 @@ netflix %>%
   geom_col(aes(y = reorder(listed_in, n), x = n)) +
   labs(title = 'Genres Vs Titles',
        x = 'No. of Titles',
-       y = 'Genre') 
+       y = 'Genre')
 
+#-------------------------------------------------------------------------------
+# remove all variables from the environment
+rm(list=ls())
 
 
 
