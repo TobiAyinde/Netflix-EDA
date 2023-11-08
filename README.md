@@ -62,13 +62,10 @@ There are no missing data in the dataset.
   
 # A tibble: 2 × 2
 
-  Type    Count
-  
-  <fct>   <int>
-  
-1 Movie    6131
-
-2 TV Show  2676
+| Type    | Count |
+|---------|-------|
+| Movie   | 6131  |
+| TV Show | 2676  |
 
 The table above shows that there are more Movies than TV shows
 
