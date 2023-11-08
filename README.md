@@ -63,7 +63,7 @@ There are no missing data in the dataset.
 
 2 TV Show  2676
 
-The table above shows that there are more Movies than TV shows
+The table below shows that there are more Movies than TV shows
 
 
 # Bar Plot for Type of Shows
