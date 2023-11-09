@@ -75,6 +75,13 @@ The table above shows that there are more Movies than TV shows
 ![image](https://github.com/TobiAyinde/Netflix-EDA/assets/149031697/4c6af479-68a4-4224-a79a-84700dfe3747) ![image](https://github.com/TobiAyinde/Netflix-EDA/assets/149031697/02d48173-9591-4424-8792-b76b03eedf55)
 
 
+The code analyzes the duration of the movies in above dataset. It first calculates the average duration of movies, finding the mean duration. 
+This gives us a sense of the typical length of movies in the dataset. 
+The code then goes on to visualize the distribution of movie durations using a density plot. 
+The plot helps us see how movie durations are spread across different values. 
+This could tell us whether most movies have similar durations or if there's a wide range. 
+Overall, this is a glimpse into the patterns of movie lengths in the dataset, combining both numerical insights and a visual representation for a more comprehensive understanding
+
 
 # Bar Chart of Movies Vs. Countries
 
