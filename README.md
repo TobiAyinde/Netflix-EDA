@@ -106,11 +106,17 @@ This could tell us whether most movies have similar durations or if there's a wi
 In summary, the diversity of countries in the top 20 list not only showcases the global popularity of movies but also underscores Netflix's commitment to offering a broad spectrum of content, catering to the varied tastes and preferences of its international audience.
 
 
+
 # Bar Chart of Genres Vs. Titles
 
 ![image](https://github.com/TobiAyinde/Netflix-EDA/assets/149031697/6b0b1df2-5046-4679-b714-adb86876ac1f)
 
 
+**Genres Vs Titles:**
+
+**The above chart explores the distribution of titles across different genres.**
+  
+- This gives insights into the most prevalent genres on the platform, helping understand viewer preferences and guiding content production decisions.**
 
 
 
