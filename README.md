@@ -89,11 +89,31 @@ This could tell us whether most movies have similar durations or if there's a wi
 ![image](https://github.com/TobiAyinde/Netflix-EDA/assets/149031697/0c9bb64c-76fd-4e85-a986-d6c5524a5826)
 
 
+**Insights from the Top 20 Countries with the Highest Number of Movies on Netflix:**
+
+**Global Popularity:**
+  - The presence of certain countries in the top ranks suggests a global appetite for movies from these regions.
+    For instance, if the United States, India, or other countries dominate the list, it signifies the international popularity of their respective film industries.
+
+**Diversity of Content:**
+  - A diverse representation of countries in the top 20 indicates that Netflix offers a wide range of content from different parts of the world.
+    If countries from various continents like Asia, Europe, and Latin America are well-represented, it showcases Netflix's commitment to providing a rich and varied selection.
+
+**Cultural Impact:**
+  - The popularity of movies from specific countries may reflect their cultural impact on a global scale.
+    For example, the influence of Bollywood in India or Hollywood in the United States could be evident in the ranking.
+
+In summary, the diversity of countries in the top 20 list not only showcases the global popularity of movies but also underscores Netflix's commitment to offering a broad spectrum of content, catering to the varied tastes and preferences of its international audience.
 
 
 # Bar Chart of Genres Vs. Titles
 
 ![image](https://github.com/TobiAyinde/Netflix-EDA/assets/149031697/6b0b1df2-5046-4679-b714-adb86876ac1f)
+
+
+
+
+
 
 
 
